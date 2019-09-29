@@ -1,0 +1,10 @@
+C:\Users\Testing\source\repos\PicZip\PicZip\bin\Debug\PicZip.exe.config
+C:\Users\Testing\source\repos\PicZip\PicZip\bin\Debug\PicZip.exe
+C:\Users\Testing\source\repos\PicZip\PicZip\bin\Debug\PicZip.pdb
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.csprojAssemblyReference.cache
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.Form1.resources
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.Properties.Resources.resources
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.csproj.GenerateResource.cache
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.exe
+C:\Users\Testing\source\repos\PicZip\PicZip\obj\Debug\PicZip.pdb
